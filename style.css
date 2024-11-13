@@ -1,4 +1,10 @@
+@font-face{
+	font-family: hyperlegible;
+	src: url(Atkinson-Hyperlegible-Regular-102.otf);
+}
+
 body {
+	font-family:hyperlegible;
   background-color: #EFEBCE;
   color: #BB8588;
 }
