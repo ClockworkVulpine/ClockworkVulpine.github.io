@@ -7,8 +7,6 @@ body {
 	font-family:hyperlegible;
   background-color: #EFEBCE;
   color: #BB8588;
-}
-
-h1 {
-  margin-left: 20px;
+  padding-top: 5%;
+  margin-left: 3%;
 }
