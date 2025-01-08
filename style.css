@@ -35,6 +35,10 @@ a{
 	color: #885255
 }
 
+a:visited {
+	color: #885255
+}
+
 li a:hover {
 		background-color: #BB8588;
 }
