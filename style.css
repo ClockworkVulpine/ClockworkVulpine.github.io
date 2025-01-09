@@ -68,10 +68,12 @@ li a:hover {
   background: #D8A48F;
   font-size: 30px;
   text-align: center;
+  border-radius: 5px;
 }
 
 .imagegallery > a > div > img {
 	opacity: 0.7;
+	border-radius: 5px;
 }
 
 .imagetext {
