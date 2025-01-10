@@ -9,9 +9,23 @@ body {
     color: #885255;
 }
 
+h2 {
+	text-align:center;
+}
+
+h3 {
+	text-align: center;
+}
+
 img {
 	width:100%;
 	height:auto;
+}
+
+footer {
+	background-color: #D8A48F;
+	border-radius: 5px;
+	padding: 0px 5px 5px 2px;
 }
 
 ul {
@@ -79,4 +93,10 @@ li a:hover {
 .imagetext {
 	padding:15px;
 	text-align: center;
+}
+
+.navimages {
+	display:grid;
+	grid-template-columns: auto auto auto auto auto;
+	gap: 2%;
 }
